@@ -1,7 +1,7 @@
-The chart shows the new tech costs divided by the original G&K costs.
+The chart shows the tech cost multiplier by era.
 
-<img width="606" height="341" alt="image" src="https://github.com/user-attachments/assets/fd2d5944-f9c6-49b8-9792-fccb0bb0d97a" />
+<img width="606" height="341" alt="image" src="https://github.com/user-attachments/assets/356d0c5a-45ef-4258-a95a-d7fdb42f94f9" />
 
-There is practically no impact in the early game, but significant impact in the later eras.
+The impact is noticable from the Renaissance era.
 
 The formula used is `NEW_COST = G&K_COST * (1 + ERA_NUMBER / 300) ^ ERA_NUMBER`, rounded to two significant digits.
