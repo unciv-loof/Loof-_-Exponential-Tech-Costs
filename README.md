@@ -1,7 +1,7 @@
 The chart shows the tech cost multiplier by era.
 
-<img width="606" height="341" alt="image" src="https://github.com/user-attachments/assets/356d0c5a-45ef-4258-a95a-d7fdb42f94f9" />
+<img width="606" height="341" alt="image" src="https://github.com/user-attachments/assets/a75b18ef-d19a-4f31-9e73-61f7b74c4dc3" />
 
-The impact is noticable from the Renaissance era.
+The impact is noticable from the Medieval / Renaissance era.
 
-The formula used is `NEW_COST = G&K_COST * (1 + ERA_NUMBER / 300) ^ ERA_NUMBER`, rounded to two significant digits.
+The formula used is `NEW_COST = G&K_COST * (1 + 1 / 750) ^ (ERA_NUMBER ^ 2.5)`, rounded to two significant digits.
