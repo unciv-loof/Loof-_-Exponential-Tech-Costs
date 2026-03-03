@@ -5,3 +5,5 @@ The chart shows the tech cost multiplier by era.
 The impact is noticable from the Medieval / Renaissance era.
 
 The formula used is `NEW_COST = G&K_COST * (1 + 1 / 750) ^ (ERA_NUMBER ^ 2.5)`, rounded to two significant digits.
+
+World wonder costs are similarly increased, but by half the rate of the techs.
