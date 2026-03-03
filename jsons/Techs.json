@@ -117,7 +117,7 @@
 		"techs": [
 			{
 				"name": "Optics",
-				"cost": 85,
+				"cost": 90,
 				"row": 1,
 				"prerequisites": ["Sailing"],
 				"uniques": ["Enables embarkation for land units"],
@@ -232,7 +232,7 @@
 		"techs": [
 			{
 				"name": "Compass",
-				"cost": 375,
+				"cost": 430,
 				"row": 1,
 				"prerequisites": ["Optics","Theology"],
                 "uniques": ["[-50]% weight to this choice for AI decisions"],
