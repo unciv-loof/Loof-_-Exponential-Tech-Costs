@@ -4,7 +4,7 @@ Wonder costs are similarly adjusted to prevent the tech leader from constructing
 
 The chart shows tech and wonder costs by era.
 
-<img width="605" height="544" alt="image" src="https://github.com/user-attachments/assets/97ad2085-bfae-41ea-88c0-a422f82fe818" />
+<img width="605" height="544" alt="image" src="https://github.com/user-attachments/assets/368c1c60-73af-44be-8014-ce1e9e2f2d57" />
 
 The impact is noticable from the Renaissance era.
 
