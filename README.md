@@ -1,9 +1,11 @@
-The chart shows the tech cost multiplier by era.
+This mod significantly slows down late game tech progression in G&K. The early game is unaffected.
 
-<img width="606" height="341" alt="image" src="https://github.com/user-attachments/assets/a75b18ef-d19a-4f31-9e73-61f7b74c4dc3" />
+Wonder costs are similarly adjusted to prevent the tech leader from constructing all of them.
+
+The chart shows tech and wonder costs by era.
+
+<img width="605" height="544" alt="image" src="https://github.com/user-attachments/assets/97ad2085-bfae-41ea-88c0-a422f82fe818" />
 
 The impact is noticable from the Medieval / Renaissance era.
 
-The formula used is `NEW_COST = G&K_COST * (1 + 1 / 750) ^ (ERA_NUMBER ^ 2.5)`, rounded to two significant digits.
-
-World wonder costs are similarly increased, but by half the rate of the techs.
+The formula used is `NEW_TECH_COST = G&K_TECH_COST * (1 + 1 / 750) ^ (ERA_NUMBER ^ 2.5)`, rounded to two significant digits.
